@@ -21,7 +21,7 @@ R の看板芸(survival)をニュースに適用した、フリート初の「�
 
 | ID | 要求 | 優先度 |
 |---|---|---|
-| F-01 | 収集: NHK RSS のカテゴリ別フィード(実 URL と対象カテゴリは loop_001 で pin)を取得し、`data/snapshots/` に 1 収集 = 1 CSV(UTC タイムスタンプ名・**不変**)で追記する。保存項目は guid・link・title・category・収集時刻のみ(本文は保存しない) | must |
+| F-01 | 収集: NHK RSS 8 フィード(loop_001 で pin: `https://news.web.nhk/n-data/conf/na/rss/cat{0..7}.xml`、cat0 主要/1 社会/2 暮らし/3 科学・文化/4 政治/5 経済/6 国際/7 スポーツ。旧 www.nhk.or.jp/rss は 301 のため最終 URL を使用)を取得し、`data/snapshots/` に 1 収集 = 1 CSV(UTC タイムスタンプ名・**不変**)で追記する。保存項目は guid・link・title・category・収集時刻のみ(本文は保存しない)。同一 (guid, category) はスナップショット内で一意(主要と各論カテゴリの併載は別行として許す) | must |
 | F-02 | 寿命計算: スナップショット列からストーリーごとの (time, event) を導出する。event=1(消えた)/ 0(右打ち切り)。収集欠損(スナップショット間隔の乱れ)に頑健な定義を持つ | must |
 | F-03 | KM 推定: **自前の純関数実装**で S(t) を計算する(survival パッケージは G-05 の照合相手であり本線依存にしない) | must |
 | F-04 | 半減期の算出: カテゴリ別の中央生存時間 + 95% 信頼区間(Greenwood) | must |
