@@ -1,0 +1,7 @@
+{"v": "1.2", "ts": "2026-08-19T23:16:03+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "loop_start", "data": {"goal": "汚染データ修復(エスカレーション承認済み): 誤ラベルスナップショット削除・台帳再初期化・修正済みコードで再収集・全テスト green", "spec_refs": ["G-03", "F-01"], "scaffold_version": "1.8.0", "agent": "claude-fable-5"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:03+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 1, "stage_name": "計画", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:04+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 2, "stage_name": "文脈読込", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:04+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "skip", "note": "既存テスト(T-009/T-010/utc_minute)が修復の判定器"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:33+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 201, "failed": 0, "errors": 0}}
+{"v": "1.2", "ts": "2026-08-19T23:16:44+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:45+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
