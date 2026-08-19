@@ -1,6 +1,6 @@
 # フッタ定義(F-06)。フリート標準の並び:
 # MIT License(© 2026 坂田哲朗)・GitHub・歩き方・設計図・App Menu
-# 歩き方/設計図はアーティファクト公開後に挿入(プレースホルダ URL の出力は禁止)。
+# 歩き方/設計図はアーティファクト(2026-08-19 公開。閲覧には所有者の共有設定が必要)。
 
 footer_links <- function() {
   list(
@@ -8,6 +8,10 @@ footer_links <- function() {
          href = "https://github.com/twill3c/hodo-hangenki/blob/main/LICENSE"),
     list(label = "GitHub",
          href = "https://github.com/twill3c/hodo-hangenki"),
+    list(label = "hodo-hangenki の歩き方",
+         href = "https://claude.ai/code/artifact/bad3724b-e037-4884-8498-883d94612f07"),
+    list(label = "hodo-hangenki 設計図",
+         href = "https://claude.ai/code/artifact/771cc407-8d2d-43fb-a1d6-37bfebbdc4c7"),
     list(label = "App Menu",
          href = "https://app-menu-amber.vercel.app")
   )

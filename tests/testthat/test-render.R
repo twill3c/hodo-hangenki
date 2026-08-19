@@ -59,11 +59,17 @@ test_that("全件打ち切り(消滅ゼロ)でもランキング・ヒスト・�
   expect_true(file.size(f2) > 0)
 })
 
-test_that("フッタ定義: 公開済みリンクのみ・全 https(T-014/F-06)", {
+test_that("フッタ定義: フリート標準 5 リンク・全 https(T-014/F-06)", {
   links <- footer_links()
   labels <- vapply(links, function(l) l$label, character(1))
-  expect_equal(labels, c("MIT License", "GitHub", "App Menu"))
-  for (l in links) expect_match(l$href, "^https://")
+  expect_equal(labels, c("MIT License", "GitHub",
+                         "hodo-hangenki の歩き方", "hodo-hangenki 設計図",
+                         "App Menu"))
+  hrefs <- vapply(links, function(l) l$href, character(1))
+  for (h in hrefs) expect_match(h, "^https://")
+  expect_false(hrefs[3] == hrefs[4])
+  expect_match(hrefs[3], "^https://claude\\.ai/code/artifact/")
+  expect_match(hrefs[4], "^https://claude\\.ai/code/artifact/")
   expect_match(footer_html(links), "© 2026 坂田哲朗", fixed = TRUE)
 })
 

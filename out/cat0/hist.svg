@@ -29,37 +29,37 @@
 <rect x='0.00' y='0.00' width='468.00' height='288.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMzUuMjJ8NDYyLjUyfDIxLjcxfDI1Ny4xMg=='>
-    <rect x='35.22' y='21.71' width='427.30' height='235.41' />
+  <clipPath id='cpMzUuNTZ8NDYyLjUyfDIyLjA4fDI1Ni41MA=='>
+    <rect x='35.56' y='22.08' width='426.96' height='234.43' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMzUuMjJ8NDYyLjUyfDIxLjcxfDI1Ny4xMg==)'>
-<polyline points='35.22,246.42 462.52,246.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='35.22,192.91 462.52,192.91 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='35.22,139.41 462.52,139.41 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='35.22,85.91 462.52,85.91 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='35.22,32.41 462.52,32.41 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='54.64,257.12 54.64,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='151.76,257.12 151.76,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='248.87,257.12 248.87,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='345.98,257.12 345.98,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='443.10,257.12 443.10,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='54.64' y='32.41' width='388.46' height='214.01' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #5C88C5;' />
+<g clip-path='url(#cpMzUuNTZ8NDYyLjUyfDIyLjA4fDI1Ni41MA==)'>
+<polyline points='35.56,245.85 462.52,245.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='35.56,192.57 462.52,192.57 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='35.56,139.29 462.52,139.29 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='35.56,86.01 462.52,86.01 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='35.56,32.73 462.52,32.73 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.97,256.50 54.97,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='152.01,256.50 152.01,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='249.04,256.50 249.04,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='346.08,256.50 346.08,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='443.11,256.50 443.11,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='54.97' y='32.73' width='388.14' height='213.12' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #5C88C5;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHwyODguMDA=)'>
-<text x='30.29' y='249.44' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.0</text>
-<text x='30.29' y='195.94' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.5</text>
-<text x='30.29' y='142.44' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.0</text>
-<text x='30.29' y='88.94' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.5</text>
-<text x='30.29' y='35.44' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>2.0</text>
-<text x='54.64' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.950</text>
-<text x='151.76' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.975</text>
-<text x='248.87' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.000</text>
-<text x='345.98' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.025</text>
-<text x='443.10' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.050</text>
-<text x='248.87' y='280.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
-<text transform='translate(13.05,139.41) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='66.00px' lengthAdjust='spacingAndGlyphs'>ストーリー数</text>
-<text x='35.22' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='174.66px' lengthAdjust='spacingAndGlyphs'>主要 — 確定した滞在時間の分布</text>
+<text x='30.63' y='249.00' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.0</text>
+<text x='30.63' y='195.72' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.5</text>
+<text x='30.63' y='142.44' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.0</text>
+<text x='30.63' y='89.16' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.5</text>
+<text x='30.63' y='35.88' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>2.0</text>
+<text x='54.97' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.950</text>
+<text x='152.01' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.975</text>
+<text x='249.04' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.000</text>
+<text x='346.08' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.025</text>
+<text x='443.11' y='267.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.050</text>
+<text x='249.04' y='280.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
+<text transform='translate(13.36,139.29) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='51.62px' lengthAdjust='spacingAndGlyphs'>ストーリー数</text>
+<text x='35.56' y='14.08' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='168.62px' lengthAdjust='spacingAndGlyphs'>主要 — 確定した滞在時間の分布</text>
 </g>
 </g>
 </svg>
