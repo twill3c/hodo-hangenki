@@ -5,3 +5,6 @@
 {"v": "1.2", "ts": "2026-08-19T23:16:33+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 201, "failed": 0, "errors": 0}}
 {"v": "1.2", "ts": "2026-08-19T23:16:44+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-19T23:16:45+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:58+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "commit", "data": {"sha": "f1f30870399de0d1846562f1041df0b339a1de34", "kind": "fix"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:59+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "skip", "note": "文書変更なし(定義・規約は loop_003 で反映済み)"}}
+{"v": "1.2", "ts": "2026-08-19T23:16:59+09:00", "project": "hodo-hangenki", "loop_id": "loop_004", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "承認済みエスカレーションに基づき汚染スナップショットを削除・台帳再初期化・真の UTC で再収集(447 行)。201 テスト green"}}
