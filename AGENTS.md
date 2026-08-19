@@ -33,3 +33,55 @@
 Conventional Commits(feat/fix/test/docs/refactor/chore)。スキャフォールド更新は
 `chore: scaffold vX.Y.Z` の専用コミットで行い、機能変更と混ぜない。
 <!-- /scaffold:block agents_core -->
+
+# AGENTS.md — hodo-hangenki
+
+報道半減期。ニュース見出しの RSS スナップショットを生存時間解析(カプラン・マイヤー)にかけ、
+カテゴリ別の半減期を静的サイトで公開する。オラクルは閉形式(kobai-walk 型)+
+survival パッケージとの二実装照合(tegaki-yomi 型)。仕様は SPEC.md、テストは TEST_SPEC.md。
+
+## 1. 技術構成
+
+- R 4.6.1(`%LOCALAPPDATA%\Programs\R\R-4.6.1`、PATH 未登録 — Rscript.exe をフルパスで呼ぶ)
+- xml2 / dplyr / readr / ggplot2 / glue / svglite / digest / testthat / survival(照合専用 — 本線コードから import しない)
+- サイトは glue テンプレートから直接 HTML 生成(toukei-atlas と同方針。Quarto・Node 不使用)
+- 自動更新: GitHub Actions cron(収集 → 計算 → レンダリング → out/ コミット → Vercel Git 連携で配信)
+
+## 2. looplog 運用の注意
+
+- テスト実行と `test_run` 記録は **`python harness/testrun.py --loop <loop_id>` 経由を必須**とする
+  (toukei-atlas HC-003 直移植。手動転記はしない)
+- 新しいイベント種別の初回使用前に `harness/looplog.py` の EVENT_SPECS を確認する
+- enum の許容値は `schema/taxonomy.json` と looplog.py の ENUMS が正
+- loop_end の failure_count は記憶で書かず `grep -c '"event": "failure"'` で数える
+
+## 3. 品質ゲート(完了条件)
+
+testthat 全 green(SPEC §4 の G-01〜G-06)。ゲートを緩める変更(許容誤差の拡大、
+テスト削除・skip、SVG ハッシュ期待値の理由なき更新)は人間の承認なしに行わない。
+G-02 の許容誤差は較正実験の記録(looplog note か SPEC 追記)を伴って初めて固定できる。
+
+## 4. アーキテクチャ規約
+
+- `R/` は**純関数のみ**。ネットワーク・ファイル IO・`Sys.time()`・乱数を直接呼ばない。
+  収集時刻は build/ スクリプトが引数で注入し、合成データの乱数はシード注入の PRNG で作る
+- 副作用(RSS 取得・スナップショット書き込み・レンダリング)は `build/` に集約。依存方向は build/ → R/ のみ
+- **スナップショットは不変**: 既存ファイルの編集・削除は禁止。修正が必要な場合も
+  新しい世代のファイルで表現し、台帳(data/ledger.csv)に追記する
+- survival パッケージは `tests/` からのみ import する(本線が照合相手に依存したら二実装照合にならない)
+- ネイティブ拡張・外部形式の新しい呼び出し経路は最小スモークを通してから本線へ(HC-002 直移植)
+- `Rscript … | tail` のパイプ包み実行をしない — ファイルリダイレクト + 完了マーカー + exit code で判定(HC-002 直移植)
+- 実フィードへのアクセスはテストから行わない。パーサのテストは保存済みフィクスチャ XML に対して行う
+
+## 5. 変更禁止領域
+
+- `data/snapshots/` 配下(不変スナップショット)と `data/ledger.csv` の既存行
+- `tests/testthat/fixtures/` の期待 SVG・手計算フィクスチャ(更新は専用コミット + 理由記録)
+- scaffold:block 管理領域
+
+## 6. デプロイ
+
+- Vercel 静的配信(プロジェクト名 hodo-hangenki、予定 URL https://hodo-hangenki.vercel.app)
+- GitHub Actions が out/ を生成してコミットし、Vercel Git 連携が out/ を配信する(Vercel 上でビルドしない)。
+  Actions の cron は 1 時間周期(SPEC §5 の収集間隔規約)
+- 初回デプロイ後に app-menu へのカード登録を行う(死にリンクの事前公開はしない — toukei-atlas の運用と同じ)

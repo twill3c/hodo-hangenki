@@ -1,0 +1,20 @@
+Package: hodohangenki
+Title: News Headline Half-Life Observatory (hodo-hangenki)
+Version: 0.0.1
+Description: Snapshots news RSS feeds on a cron schedule and applies
+    Kaplan-Meier survival analysis to headline lifetimes, publishing
+    category half-lives as a static site. Built with R; deployed to
+    Vercel as static files. Built with build/, not R CMD build.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    xml2,
+    dplyr,
+    readr,
+    ggplot2,
+    glue,
+    svglite,
+    digest
+Suggests:
+    testthat,
+    survival

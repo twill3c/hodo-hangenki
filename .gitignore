@@ -1,0 +1,12 @@
+# ビルド成果物は Actions がコミットする(out/ は git 管理対象)ため、ここでは除外しない
+# ローカル一時物のみ除外する
+
+build/*.log
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Vercel
+.vercel/
