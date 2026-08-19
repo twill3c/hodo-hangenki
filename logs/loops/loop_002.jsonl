@@ -9,3 +9,6 @@
 {"v": "1.2", "ts": "2026-08-19T22:43:10+09:00", "project": "hodo-hangenki", "loop_id": "loop_002", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 108, "failed": 0, "errors": 0, "note": "G-02 較正済み閾値で全件"}}
 {"v": "1.2", "ts": "2026-08-19T22:43:32+09:00", "project": "hodo-hangenki", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-19T22:43:32+09:00", "project": "hodo-hangenki", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass", "note": "G-02 較正: n=2000×20 シードで S 乖離 max0.032・中央値誤差 max0.355h → 閾値 0.05/0.6h に固定"}}
+{"v": "1.2", "ts": "2026-08-19T22:43:49+09:00", "project": "hodo-hangenki", "loop_id": "loop_002", "event": "commit", "data": {"sha": "85b4d313a282bec7050715adc3ac9a329573d3f1", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-19T22:43:50+09:00", "project": "hodo-hangenki", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-19T22:43:50+09:00", "project": "hodo-hangenki", "loop_id": "loop_002", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "KM 推定と寿命導出を 3 オラクル(手計算厳密・survfit 照合・較正済み閉形式)で実装、108 テスト green。HC-001 起票"}}

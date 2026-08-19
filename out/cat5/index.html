@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>経済 — 報道半減期</title>
+<meta name="description" content="NHK 経済カテゴリのニュース見出しの生存時間解析。半減期: 蓄積中">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="container">
+  <header class="page-header">
+    <nav class="breadcrumb"><a href="../">⏳ 報道半減期</a> / 経済</nav>
+    <h1>経済</h1>
+    <p class="definition">半減期(見出しの 50% が消えるまでの時間): <strong>蓄積中</strong> ・ 観測 44 見出し(確定 0)</p>
+  </header>
+
+  <main class="theme-layout">
+    <section class="block-map" aria-label="KM 曲線">
+      <figure><img src="km.svg" alt="経済の KM 生存曲線"></figure>
+    </section>
+    <section class="block-ranking" aria-label="ランキング">
+      <h2>滞在時間ランキング</h2>
+      <figure><img src="ranking.svg" alt="経済の滞在時間の長い/短い見出し"></figure>
+    </section>
+    <section class="block-hist" aria-label="分布">
+      <h2>滞在時間の分布</h2>
+      <figure><img src="hist.svg" alt="経済の滞在時間ヒストグラム"></figure>
+    </section>
+    <section class="block-notes" aria-label="出典と定義">
+      <h2>出典・定義</h2>
+      <dl>
+        <dt>出典</dt><dd>NHK ニュース RSS(経済)。各見出しの著作権は日本放送協会に帰属します</dd>
+        <dt>観測方法</dt><dd>RSS を約 1 時間間隔でスナップショットし、見出しがフィードに滞在した時間を記録</dd>
+        <dt>滞在時間の定義</dt><dd>消えた見出し = 最終観測 − 初観測 + 1 時間(上限側慣例)。まだ載っている見出しは右打ち切りとして扱う</dd>
+        <dt>半減期</dt><dd>カプラン・マイヤー生存曲線 S(t) が 0.5 以下となる最小の時刻(生存時間の中央値)</dd>
+        <dt>観測期間</dt><dd>2026-08-19 22:35:00 〜 2026-08-19 22:35:00(UTC)・スナップショット 1 回。最終取得: 2026-08-19 22:35:00</dd>
+      </dl>
+    </section>
+  </main>
+
+  <footer class="site-footer"><p><a href="https://github.com/twill3c/hodo-hangenki/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a> © 2026 坂田哲朗 ・ <a href="https://github.com/twill3c/hodo-hangenki" target="_blank" rel="noopener">GitHub</a> ・ <a href="https://app-menu-amber.vercel.app" target="_blank" rel="noopener">App Menu</a></p></footer>
+</div>
+</body>
+</html>

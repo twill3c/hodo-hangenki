@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='612.00pt' height='396.00pt' viewBox='0 0 612.00 396.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2MTIuMDB8MC4wMHwzOTYuMDA='>
+    <rect x='0.00' y='0.00' width='612.00' height='396.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHwzOTYuMDA=)'>
+<rect x='0.00' y='0.000000000000057' width='612.00' height='396.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNDAuNDZ8NTIyLjI1fDIyLjA4fDM2NC41MA=='>
+    <rect x='40.46' y='22.08' width='481.79' height='342.43' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDAuNDZ8NTIyLjI1fDIyLjA4fDM2NC41MA==)'>
+<polyline points='40.46,348.94 522.25,348.94 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='40.46,271.11 522.25,271.11 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='40.46,193.29 522.25,193.29 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='40.46,115.47 522.25,115.47 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='40.46,37.64 522.25,37.64 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='40.46,364.50 40.46,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='160.90,364.50 160.90,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='281.35,364.50 281.35,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='401.80,364.50 401.80,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='522.25,364.50 522.25,22.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<line x1='40.46' y1='193.29' x2='522.25' y2='193.29' style='stroke-width: 0.64; stroke: #888888; stroke-dasharray: 4.00,4.00; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2MTIuMDB8MC4wMHwzOTYuMDA=)'>
+<text x='35.52' y='352.09' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.00</text>
+<text x='35.52' y='274.26' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.25</text>
+<text x='35.52' y='196.44' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.50</text>
+<text x='35.52' y='118.62' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.75</text>
+<text x='35.52' y='40.79' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>1.00</text>
+<text x='40.46' y='375.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.92px' lengthAdjust='spacingAndGlyphs'>-0.050</text>
+<text x='160.90' y='375.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.92px' lengthAdjust='spacingAndGlyphs'>-0.025</text>
+<text x='281.35' y='375.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.000</text>
+<text x='401.80' y='375.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.025</text>
+<text x='522.25' y='375.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.050</text>
+<text x='281.35' y='388.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='164.05px' lengthAdjust='spacingAndGlyphs'>見出しに載ってからの経過時間(時間)</text>
+<text transform='translate(13.36,193.29) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='53.78px' lengthAdjust='spacingAndGlyphs'>生存率 S(t)</text>
+<line x1='540.42' y1='132.81' x2='554.24' y2='132.81' style='stroke-width: 1.49; stroke: #440154; stroke-linecap: butt;' />
+<line x1='540.42' y1='150.09' x2='554.24' y2='150.09' style='stroke-width: 1.49; stroke: #46337E; stroke-linecap: butt;' />
+<line x1='540.42' y1='167.37' x2='554.24' y2='167.37' style='stroke-width: 1.49; stroke: #365C8D; stroke-linecap: butt;' />
+<line x1='540.42' y1='184.65' x2='554.24' y2='184.65' style='stroke-width: 1.49; stroke: #277F8E; stroke-linecap: butt;' />
+<line x1='540.42' y1='201.93' x2='554.24' y2='201.93' style='stroke-width: 1.49; stroke: #1FA187; stroke-linecap: butt;' />
+<line x1='540.42' y1='219.21' x2='554.24' y2='219.21' style='stroke-width: 1.49; stroke: #4AC16D; stroke-linecap: butt;' />
+<line x1='540.42' y1='236.49' x2='554.24' y2='236.49' style='stroke-width: 1.49; stroke: #9FDA3A; stroke-linecap: butt;' />
+<line x1='540.42' y1='253.77' x2='554.24' y2='253.77' style='stroke-width: 1.49; stroke: #FDE725; stroke-linecap: butt;' />
+<text x='561.45' y='135.96' style='font-size: 8.80px; font-family: "Arial";' textLength='17.59px' lengthAdjust='spacingAndGlyphs'>主要</text>
+<text x='561.45' y='153.24' style='font-size: 8.80px; font-family: "Arial";' textLength='17.59px' lengthAdjust='spacingAndGlyphs'>社会</text>
+<text x='561.45' y='170.52' style='font-size: 8.80px; font-family: "Arial";' textLength='21.23px' lengthAdjust='spacingAndGlyphs'>暮らし</text>
+<text x='561.45' y='187.80' style='font-size: 8.80px; font-family: "Arial";' textLength='39.59px' lengthAdjust='spacingAndGlyphs'>科学・文化</text>
+<text x='561.45' y='205.08' style='font-size: 8.80px; font-family: "Arial";' textLength='17.59px' lengthAdjust='spacingAndGlyphs'>政治</text>
+<text x='561.45' y='222.36' style='font-size: 8.80px; font-family: "Arial";' textLength='17.59px' lengthAdjust='spacingAndGlyphs'>経済</text>
+<text x='561.45' y='239.64' style='font-size: 8.80px; font-family: "Arial";' textLength='17.59px' lengthAdjust='spacingAndGlyphs'>国際</text>
+<text x='561.45' y='256.92' style='font-size: 8.80px; font-family: "Arial";' textLength='27.56px' lengthAdjust='spacingAndGlyphs'>スポーツ</text>
+<text x='40.46' y='14.08' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='279.70px' lengthAdjust='spacingAndGlyphs'>ニュースはどれだけ見出しに残るか — カテゴリ別 KM 曲線</text>
+</g>
+</g>
+</svg>

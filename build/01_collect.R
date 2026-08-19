@@ -11,15 +11,16 @@ suppressPackageStartupMessages({
 })
 source("R/feeds.R")
 source("R/parse_feed.R")
+source("R/timeutil.R")
 
 args <- commandArgs(trailingOnly = TRUE)
 at <- if (length(args) >= 2 && args[1] == "--at") {
   as.POSIXct(args[2], tz = "UTC", format = "%Y-%m-%dT%H:%M:%SZ")
 } else {
-  as.POSIXct(trunc(Sys.time(), "mins"), tz = "UTC")
+  utc_minute(Sys.time())  # 素の trunc+tz 指定は JST 時計値を UTC 再解釈する(loop_003)
 }
 stopifnot(!is.na(at))
-stamp <- format(at, "%Y%m%d-%H%M", tz = "UTC")
+stamp <- utc_stamp(at)
 dest <- file.path("data/snapshots", paste0("snap-", stamp, ".csv"))
 if (file.exists(dest)) stop("スナップショットが既に存在する(不変規約): ", dest)
 
@@ -32,15 +33,14 @@ for (i in seq_len(nrow(f))) {
   rows[[i]] <- parse_feed(xml, f$category[i])
 }
 snap <- bind_rows(rows)
-snap$collected_at_utc <- format(at, "%Y-%m-%dT%H:%M:%SZ", tz = "UTC")
+snap$collected_at_utc <- utc_iso(at)
 
 # 同一 (guid, category) はフィード横断でも一意に(cat0 主要と各論カテゴリの併載は許す)
 stopifnot(!any(duplicated(paste(snap$guid, snap$category))))
 
 write_csv(snap, dest)
 sha <- digest(file = dest, algo = "sha256")
-ledger_line <- sprintf("%s,%s,%s\n", basename(dest), sha,
-                       format(at, "%Y-%m-%dT%H:%M:%SZ", tz = "UTC"))
+ledger_line <- sprintf("%s,%s,%s\n", basename(dest), sha, utc_iso(at))
 cat(ledger_line, file = "data/ledger.csv", append = TRUE)
 message("collected: ", nrow(snap), " rows -> ", dest)
 message("COLLECT DONE")

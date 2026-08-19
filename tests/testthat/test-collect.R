@@ -7,6 +7,16 @@ suppressPackageStartupMessages({
 })
 source("../../R/feeds.R", chdir = TRUE)
 source("../../R/parse_feed.R", chdir = TRUE)
+source("../../R/timeutil.R", chdir = TRUE)
+
+test_that("utc_minute: JST の時計値を UTC 再解釈しない(loop_003 の実証バグ)", {
+  # 挙動表(HC-001): 入力は POSIXct(任意 tz)。出力は同一瞬間の UTC・分切り捨て。
+  jst <- as.POSIXct("2026-08-19 23:06:55", tz = "Asia/Tokyo")
+  expect_equal(utc_iso(utc_minute(jst)), "2026-08-19T14:06:00Z")
+  utc <- as.POSIXct("2026-08-19 14:06:55", tz = "UTC")
+  expect_equal(utc_iso(utc_minute(utc)), "2026-08-19T14:06:00Z")
+  expect_equal(utc_stamp(utc_minute(jst)), "20260819-1406")
+})
 
 root <- normalizePath(file.path(testthat::test_path(), "..", ".."))
 

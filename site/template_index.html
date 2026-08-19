@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>報道半減期 — ニュースの寿命観測所</title>
+<meta name="description" content="ニュース見出しの寿命を生存時間解析で測る観測所。カテゴリ別の半減期を毎時更新。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header class="page-header">
+    <h1>⏳ 報道半減期</h1>
+    <p class="definition">ニュースは何時間で見出しから消えるのか。NHK ニュース RSS を毎時観測し、カプラン・マイヤー推定でカテゴリ別の<strong>半減期</strong>を測る。</p>
+  </header>
+
+  <section class="block-map" aria-label="全カテゴリ KM 曲線">
+    <figure><img src="km_all.svg" alt="全カテゴリの KM 生存曲線の重ね描き"></figure>
+  </section>
+
+  <section aria-label="半減期一覧">
+    <h2>カテゴリ別半減期</h2>
+    <div class="table-scroll">
+      <table>
+        <tr><th>カテゴリ</th><th>半減期</th><th>観測見出し数</th><th>確定(消滅)数</th></tr>
+        {{halflife_rows}}
+      </table>
+    </div>
+    <p class="caption">半減期 = 生存曲線の中央値。「蓄積中」は消滅イベントがまだ足りないカテゴリ。観測期間 {{first_utc}} 〜 {{latest_utc}}(UTC)・スナップショット {{n_snapshots}} 回。</p>
+  </section>
+
+  {{footer}}
+</div>
+</body>
+</html>

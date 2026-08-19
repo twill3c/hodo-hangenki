@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{category}} — 報道半減期</title>
+<meta name="description" content="NHK {{category}}カテゴリのニュース見出しの生存時間解析。半減期: {{halflife_label}}">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="container">
+  <header class="page-header">
+    <nav class="breadcrumb"><a href="../">⏳ 報道半減期</a> / {{category}}</nav>
+    <h1>{{category}}</h1>
+    <p class="definition">半減期(見出しの 50% が消えるまでの時間): <strong>{{halflife_label}}</strong> ・ 観測 {{n_stories}} 見出し(確定 {{n_events}})</p>
+  </header>
+
+  <main class="theme-layout">
+    <section class="block-map" aria-label="KM 曲線">
+      <figure><img src="km.svg" alt="{{category}}の KM 生存曲線"></figure>
+    </section>
+    <section class="block-ranking" aria-label="ランキング">
+      <h2>滞在時間ランキング</h2>
+      <figure><img src="ranking.svg" alt="{{category}}の滞在時間の長い/短い見出し"></figure>
+    </section>
+    <section class="block-hist" aria-label="分布">
+      <h2>滞在時間の分布</h2>
+      <figure><img src="hist.svg" alt="{{category}}の滞在時間ヒストグラム"></figure>
+    </section>
+    <section class="block-notes" aria-label="出典と定義">
+      <h2>出典・定義</h2>
+      <dl>
+        <dt>出典</dt><dd>NHK ニュース RSS({{category}})。各見出しの著作権は日本放送協会に帰属します</dd>
+        <dt>観測方法</dt><dd>RSS を約 1 時間間隔でスナップショットし、見出しがフィードに滞在した時間を記録</dd>
+        <dt>滞在時間の定義</dt><dd>消えた見出し = 最終観測 − 初観測 + 1 時間(上限側慣例)。まだ載っている見出しは右打ち切りとして扱う</dd>
+        <dt>半減期</dt><dd>カプラン・マイヤー生存曲線 S(t) が 0.5 以下となる最小の時刻(生存時間の中央値)</dd>
+        <dt>観測期間</dt><dd>{{first_utc}} 〜 {{latest_utc}}(UTC)・スナップショット {{n_snapshots}} 回。最終取得: {{latest_utc}}</dd>
+      </dl>
+    </section>
+  </main>
+
+  {{footer}}
+</div>
+</body>
+</html>

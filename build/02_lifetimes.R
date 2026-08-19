@@ -1,11 +1,46 @@
-# スナップショット列からストーリーごとの (time, event) と KM 推定を計算し、
-# data/processed/ に書き出す。
-#
-# 契約(loop_002 で実装、テスト T-001〜T-008 / G-05 が先行):
-#  - 寿命導出は R/lifetimes.R、KM は R/km.R(いずれも純関数)
-#  - 出力: data/processed/lifetimes.csv(story ごと)、km_by_category.csv(階段関数)、
-#          halflife.csv(カテゴリ別中央値 + Greenwood 95%CI)
-#  - 右打ち切り: 最新スナップショットに存在するストーリーは event=0
-#  - 収集欠損の扱いは T-008 の定義に従う(実装時に固定してテストへ写す)
+# スナップショット列 → (time, event) → data/processed/(F-02〜F-04)。
+suppressPackageStartupMessages({
+  library(readr)
+  library(dplyr)
+})
+source("R/lifetimes.R")
 
-stop("loop_002 で実装する(テスト先行)。SPEC §2/§3 F-02〜F-04 参照")
+INTERVAL <- 3600  # 公称収集間隔 Δ(秒、SPEC §2)
+
+ledger <- read_csv("data/ledger.csv", col_types = "ccc")
+stopifnot(nrow(ledger) > 0)
+
+parse_utc <- function(x) {
+  t <- as.POSIXct(x, tz = "UTC", format = "%Y-%m-%dT%H:%M:%SZ")  # format 明示(HC-001)
+  stopifnot(!any(is.na(t)))
+  as.numeric(t)
+}
+
+snaps <- lapply(seq_len(nrow(ledger)), function(i) {
+  s <- read_csv(file.path("data/snapshots", ledger$filename[i]),
+                col_types = "ccccc")
+  tibble(guid = s$guid, category = s$category, title = s$title, link = s$link,
+         t = parse_utc(s$collected_at_utc))
+})
+obs <- bind_rows(snaps)
+snap_times <- sort(unique(parse_utc(ledger$collected_at_utc)))
+
+lt <- derive_lifetimes(obs[, c("guid", "category", "t")],
+                       snap_times = snap_times, interval = INTERVAL)
+# 表示用にタイトル・リンク(最後に見えたときのもの)を付ける
+meta <- obs |>
+  group_by(guid, category) |>
+  slice_max(t, n = 1, with_ties = FALSE) |>
+  ungroup() |>
+  select(guid, category, title, link)
+lt <- left_join(lt, meta, by = c("guid", "category"))
+
+dir.create("data/processed", showWarnings = FALSE, recursive = TRUE)
+write_csv(lt, "data/processed/lifetimes.csv")
+write_csv(tibble(
+  n_snapshots = length(snap_times),
+  first_utc = format(as.POSIXct(min(snap_times), tz = "UTC"), "%Y-%m-%dT%H:%M:%SZ"),
+  latest_utc = format(as.POSIXct(max(snap_times), tz = "UTC"), "%Y-%m-%dT%H:%M:%SZ")
+), "data/processed/meta.csv")
+message("lifetimes: ", nrow(lt), " stories / ", length(snap_times), " snapshots")
+message("LIFETIMES DONE")

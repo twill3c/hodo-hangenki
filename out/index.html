@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>報道半減期 — ニュースの寿命観測所</title>
+<meta name="description" content="ニュース見出しの寿命を生存時間解析で測る観測所。カテゴリ別の半減期を毎時更新。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header class="page-header">
+    <h1>⏳ 報道半減期</h1>
+    <p class="definition">ニュースは何時間で見出しから消えるのか。NHK ニュース RSS を毎時観測し、カプラン・マイヤー推定でカテゴリ別の<strong>半減期</strong>を測る。</p>
+  </header>
+
+  <section class="block-map" aria-label="全カテゴリ KM 曲線">
+    <figure><img src="km_all.svg" alt="全カテゴリの KM 生存曲線の重ね描き"></figure>
+  </section>
+
+  <section aria-label="半減期一覧">
+    <h2>カテゴリ別半減期</h2>
+    <div class="table-scroll">
+      <table>
+        <tr><th>カテゴリ</th><th>半減期</th><th>観測見出し数</th><th>確定(消滅)数</th></tr>
+        <tr><td><a href="cat0/">主要</a></td><td>蓄積中</td><td>7</td><td>0</td></tr>
+        <tr><td><a href="cat1/">社会</a></td><td>蓄積中</td><td>110</td><td>0</td></tr>
+        <tr><td><a href="cat2/">暮らし</a></td><td>蓄積中</td><td>8</td><td>0</td></tr>
+        <tr><td><a href="cat3/">科学・文化</a></td><td>蓄積中</td><td>8</td><td>0</td></tr>
+        <tr><td><a href="cat4/">政治</a></td><td>蓄積中</td><td>52</td><td>0</td></tr>
+        <tr><td><a href="cat5/">経済</a></td><td>蓄積中</td><td>44</td><td>0</td></tr>
+        <tr><td><a href="cat6/">国際</a></td><td>蓄積中</td><td>110</td><td>0</td></tr>
+        <tr><td><a href="cat7/">スポーツ</a></td><td>蓄積中</td><td>104</td><td>0</td></tr>
+      </table>
+    </div>
+    <p class="caption">半減期 = 生存曲線の中央値。「蓄積中」は消滅イベントがまだ足りないカテゴリ。観測期間 2026-08-19 22:35:00 〜 2026-08-19 22:35:00(UTC)・スナップショット 1 回。</p>
+  </section>
+
+  <footer class="site-footer"><p><a href="https://github.com/twill3c/hodo-hangenki/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a> © 2026 坂田哲朗 ・ <a href="https://github.com/twill3c/hodo-hangenki" target="_blank" rel="noopener">GitHub</a> ・ <a href="https://app-menu-amber.vercel.app" target="_blank" rel="noopener">App Menu</a></p></footer>
+</div>
+</body>
+</html>
