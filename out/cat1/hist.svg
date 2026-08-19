@@ -29,16 +29,35 @@
 <rect x='0.00' y='0.00' width='468.00' height='288.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTguNDF8NDYyLjUyfDIyLjA4fDI2OS41OQ=='>
-    <rect x='18.41' y='22.08' width='444.11' height='247.51' />
+  <clipPath id='cpMzIuNzh8NDYyLjUyfDIxLjcxfDI1Ny4xMg=='>
+    <rect x='32.78' y='21.71' width='429.74' height='235.41' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTguNDF8NDYyLjUyfDIyLjA4fDI2OS41OQ==)'>
+<g clip-path='url(#cpMzIuNzh8NDYyLjUyfDIxLjcxfDI1Ny4xMg==)'>
+<polyline points='32.78,246.42 462.52,246.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='32.78,186.97 462.52,186.97 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='32.78,127.52 462.52,127.52 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='32.78,68.08 462.52,68.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='52.32,257.12 52.32,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='149.98,257.12 149.98,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='247.65,257.12 247.65,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='345.32,257.12 345.32,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='442.99,257.12 442.99,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='52.32' y='32.41' width='390.67' height='214.01' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #5C88C5;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHwyODguMDA=)'>
-<text x='240.47' y='280.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
-<text transform='translate(13.36,145.83) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='51.62px' lengthAdjust='spacingAndGlyphs'>ストーリー数</text>
-<text x='18.41' y='14.08' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='168.62px' lengthAdjust='spacingAndGlyphs'>社会 — 確定した滞在時間の分布</text>
+<text x='27.85' y='249.44' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='27.85' y='190.00' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='27.85' y='130.55' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='27.85' y='71.10' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>15</text>
+<text x='52.32' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.050</text>
+<text x='149.98' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.075</text>
+<text x='247.65' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.100</text>
+<text x='345.32' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.125</text>
+<text x='442.99' y='268.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>1.150</text>
+<text x='247.65' y='280.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
+<text transform='translate(13.05,139.41) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='66.00px' lengthAdjust='spacingAndGlyphs'>ストーリー数</text>
+<text x='32.78' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='174.66px' lengthAdjust='spacingAndGlyphs'>社会 — 確定した滞在時間の分布</text>
 </g>
 </g>
 </svg>

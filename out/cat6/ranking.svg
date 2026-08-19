@@ -29,61 +29,122 @@
 <rect x='0.00' y='0.00' width='468.00' height='576.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTg0LjIxfDQ2Mi41MnwzOC45OXw1NDQuNTA='>
-    <rect x='184.21' y='38.99' width='278.31' height='505.51' />
+  <clipPath id='cpMjA0LjA3fDQ2Mi41MnwzOC4zNnwyODAuNjc='>
+    <rect x='204.07' y='38.36' width='258.45' height='242.31' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTg0LjIxfDQ2Mi41MnwzOC45OXw1NDQuNTA=)'>
-<polyline points='184.21,514.77 462.52,514.77 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,465.21 462.52,465.21 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,415.65 462.52,415.65 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,366.09 462.52,366.09 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,316.53 462.52,316.53 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,266.97 462.52,266.97 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,217.41 462.52,217.41 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,167.85 462.52,167.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,118.29 462.52,118.29 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='184.21,68.73 462.52,68.73 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='196.86,544.50 196.86,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='291.74,544.50 291.74,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='386.62,544.50 386.62,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='196.86' y='51.38' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='100.94' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='150.50' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='200.06' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='249.62' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='299.18' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='348.74' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='398.30' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='447.86' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.86' y='497.42' width='253.01' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<g clip-path='url(#cpMjA0LjA3fDQ2Mi41MnwzOC4zNnwyODAuNjc=)'>
+<polyline points='204.07,266.42 462.52,266.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,242.66 462.52,242.66 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,218.91 462.52,218.91 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,195.15 462.52,195.15 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,171.39 462.52,171.39 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,147.64 462.52,147.64 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,123.88 462.52,123.88 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,100.13 462.52,100.13 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,76.37 462.52,76.37 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,52.61 462.52,52.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='215.82,280.67 215.82,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='262.50,280.67 262.50,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='309.18,280.67 309.18,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='355.86,280.67 355.86,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='402.54,280.67 402.54,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='449.22,280.67 449.22,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='215.82' y='44.30' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='68.05' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='91.81' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='115.57' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='139.32' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='163.08' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='186.84' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='210.59' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='234.35' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='258.10' width='234.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
 <defs>
-  <clipPath id='cpMTg0LjIxfDQ2Mi41MnwyMi4wOHwzOC45OQ=='>
-    <rect x='184.21' y='22.08' width='278.31' height='16.92' />
+  <clipPath id='cpMjA0LjA3fDQ2Mi41MnwzMDIuODB8NTQ1LjEy'>
+    <rect x='204.07' y='302.80' width='258.45' height='242.31' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTg0LjIxfDQ2Mi41MnwyMi4wOHwzOC45OQ==)'>
-<text x='323.36' y='33.68' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Arial";' textLength='46.69px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
+<g clip-path='url(#cpMjA0LjA3fDQ2Mi41MnwzMDIuODB8NTQ1LjEy)'>
+<polyline points='204.07,530.86 462.52,530.86 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,507.11 462.52,507.11 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,483.35 462.52,483.35 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,459.59 462.52,459.59 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,435.84 462.52,435.84 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,412.08 462.52,412.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,388.33 462.52,388.33 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,364.57 462.52,364.57 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,340.81 462.52,340.81 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='204.07,317.06 462.52,317.06 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='215.82,545.12 215.82,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='262.50,545.12 262.50,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='309.18,545.12 309.18,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='355.86,545.12 355.86,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='402.54,545.12 402.54,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='449.22,545.12 449.22,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='215.82' y='308.74' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='332.50' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='356.25' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='380.01' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='403.77' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='427.52' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='451.28' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='475.04' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='498.79' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='215.82' y='522.55' width='105.81' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
-<text x='196.86' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.00</text>
-<text x='291.74' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.05</text>
-<text x='386.62' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.10</text>
-<text x='179.28' y='517.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='153.62px' lengthAdjust='spacingAndGlyphs'>コロンビア地震 死者265人に 72時間を前に救(継続中)</text>
-<text x='179.28' y='467.71' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='173.80px' lengthAdjust='spacingAndGlyphs'>ドイツ 情報機関の権限を大幅に強化する法案を閣議(継続中)</text>
-<text x='179.28' y='418.15' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='164.64px' lengthAdjust='spacingAndGlyphs'>IEA 石油供給量見通しを下方修正 ホルムズ海峡(継続中)</text>
-<text x='179.28' y='368.59' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='156.92px' lengthAdjust='spacingAndGlyphs'>中国 国家プロジェクト開発 新型旅客機「C919(継続中)</text>
-<text x='179.28' y='319.03' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='154.06px' lengthAdjust='spacingAndGlyphs'>欧州で27年ぶり スペインなど皆既日食 フランス(継続中)</text>
-<text x='179.28' y='269.47' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='163.58px' lengthAdjust='spacingAndGlyphs'>米 トランプ大統領 優位な立場を改めて主張も 先(継続中)</text>
-<text x='179.28' y='219.91' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='167.67px' lengthAdjust='spacingAndGlyphs'>米物価上昇率3.4％ 伸び率縮小 利上げ観測やや(継続中)</text>
-<text x='179.28' y='170.35' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='165.33px' lengthAdjust='spacingAndGlyphs'>【随時更新】ロシア ウクライナに軍事侵攻（8月1(継続中).2</text>
-<text x='179.28' y='120.79' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='165.33px' lengthAdjust='spacingAndGlyphs'>【随時更新】ロシア ウクライナに軍事侵攻（8月1(継続中).1</text>
-<text x='179.28' y='71.23' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='159.50px' lengthAdjust='spacingAndGlyphs'>【随時更新】ロシア ウクライナに軍事侵攻（8月1(継続中)</text>
-<text x='323.36' y='568.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
-<text x='184.21' y='14.08' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='139.06px' lengthAdjust='spacingAndGlyphs'>国際 — 滞在時間ランキング</text>
+</g>
+<defs>
+  <clipPath id='cpMjA0LjA3fDQ2Mi41MnwyODYuMTV8MzAyLjgw'>
+    <rect x='204.07' y='286.15' width='258.45' height='16.65' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjA0LjA3fDQ2Mi41MnwyODYuMTV8MzAyLjgw)'>
+<text x='333.29' y='297.50' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>すぐ消えた 10</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMjA0LjA3fDQ2Mi41MnwyMS43MXwzOC4zNg=='>
+    <rect x='204.07' y='21.71' width='258.45' height='16.65' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjA0LjA3fDQ2Mi41MnwyMS43MXwzOC4zNg==)'>
+<text x='333.29' y='33.06' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
+<text x='215.82' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.0</text>
+<text x='262.50' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.5</text>
+<text x='309.18' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.0</text>
+<text x='355.86' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>1.5</text>
+<text x='402.54' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>2.0</text>
+<text x='449.22' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>2.5</text>
+<text x='199.14' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='182.38px' lengthAdjust='spacingAndGlyphs'>ベルリンの壁建設開始から65年で追悼式典 当時を(継続中)</text>
+<text x='199.14' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='193.66px' lengthAdjust='spacingAndGlyphs'>ベルギー「フラワーカーペット」両国友好記念し日本(継続中)</text>
+<text x='199.14' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>ウクライナで地雷探知の新システム 日本の支援で供(継続中)</text>
+<text x='199.14' y='197.56' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>政府 ロシアへの対抗措置を検討 プーチン氏の北方(継続中)</text>
+<text x='199.14' y='173.80' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='178.47px' lengthAdjust='spacingAndGlyphs'>高市首相 中国 習主席に哀悼の意 朱鎔基元首相の(継続中)</text>
+<text x='199.14' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='178.47px' lengthAdjust='spacingAndGlyphs'>中国 朱鎔基元首相 死去 中国の日本関係者も追悼(継続中)</text>
+<text x='199.14' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='182.38px' lengthAdjust='spacingAndGlyphs'>ヨーロッパ各地で熱波続く パリでは40度近くまで(継続中)</text>
+<text x='199.14' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.20px' lengthAdjust='spacingAndGlyphs'>【随時更新】ロシア ウクライナに軍事侵攻（8月1(継続中).2</text>
+<text x='199.14' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.20px' lengthAdjust='spacingAndGlyphs'>【随時更新】ロシア ウクライナに軍事侵攻（8月1(継続中).1</text>
+<text x='199.14' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='182.38px' lengthAdjust='spacingAndGlyphs'>【随時更新】ロシア ウクライナに軍事侵攻（8月1(継続中)</text>
+<text x='199.14' y='533.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='136.88px' lengthAdjust='spacingAndGlyphs'>ロシア プーチン大統領 北方領土初めて訪問</text>
+<text x='199.14' y='509.51' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='158.27px' lengthAdjust='spacingAndGlyphs'>米ホワイトハウス レビット報道官が退任へ“ほろ苦</text>
+<text x='199.14' y='485.76' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='158.66px' lengthAdjust='spacingAndGlyphs'>米国務省“出産ツーリズム”防止専門チーム立ち上げ</text>
+<text x='199.14' y='462.00' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='142.33px' lengthAdjust='spacingAndGlyphs'>コロンビア地震 死者265人に 72時間を前に救</text>
+<text x='199.14' y='438.25' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>ドイツ 情報機関の権限を大幅に強化する法案を閣議</text>
+<text x='199.14' y='414.49' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='147.77px' lengthAdjust='spacingAndGlyphs'>IEA 石油供給量見通しを下方修正 ホルムズ海峡</text>
+<text x='199.14' y='390.73' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.61px' lengthAdjust='spacingAndGlyphs'>中国 国家プロジェクト開発 新型旅客機「C919</text>
+<text x='199.14' y='366.98' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='151.66px' lengthAdjust='spacingAndGlyphs'>欧州で27年ぶり スペインなど皆既日食 フランス</text>
+<text x='199.14' y='343.22' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='152.81px' lengthAdjust='spacingAndGlyphs'>米 トランプ大統領 優位な立場を改めて主張も 先</text>
+<text x='199.14' y='319.47' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.59px' lengthAdjust='spacingAndGlyphs'>米物価上昇率3.4％ 伸び率縮小 利上げ観測やや</text>
+<text x='333.29' y='568.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
+<text x='204.07' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='150.66px' lengthAdjust='spacingAndGlyphs'>国際 — 滞在時間ランキング</text>
 </g>
 </g>
 </svg>
