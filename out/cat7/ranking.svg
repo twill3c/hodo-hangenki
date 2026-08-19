@@ -45,10 +45,9 @@
 <polyline points='195.90,76.37 462.52,76.37 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='195.90,52.61 462.52,52.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='208.01,280.67 208.01,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='266.19,280.67 266.19,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='324.36,280.67 324.36,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='382.53,280.67 382.53,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='440.71,280.67 440.71,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='273.29,280.67 273.29,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='338.56,280.67 338.56,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='403.84,280.67 403.84,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <rect x='208.01' y='44.30' width='242.39' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='208.01' y='68.05' width='242.39' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='208.01' y='91.81' width='242.39' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
@@ -78,19 +77,18 @@
 <polyline points='195.90,344.94 462.52,344.94 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='195.90,318.61 462.52,318.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='208.01,545.12 208.01,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='266.19,545.12 266.19,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='324.36,545.12 324.36,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='382.53,545.12 382.53,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='440.71,545.12 440.71,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='208.01' y='309.39' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='335.73' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='362.06' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='388.40' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='414.74' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='441.08' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='467.42' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='493.76' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='520.09' width='32.96' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<polyline points='273.29,545.12 273.29,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='338.56,545.12 338.56,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='403.84,545.12 403.84,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='208.01' y='309.39' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='335.73' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='362.06' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='388.40' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='414.74' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='441.08' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='467.42' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='493.76' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='520.09' width='29.59' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
@@ -113,11 +111,10 @@
 <text x='329.21' y='33.06' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
-<text x='208.01' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='266.19' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>2</text>
-<text x='324.36' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>4</text>
-<text x='382.53' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>6</text>
-<text x='440.71' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>8</text>
+<text x='208.01' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.0</text>
+<text x='273.29' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>2.5</text>
+<text x='338.56' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>5.0</text>
+<text x='403.84' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>7.5</text>
 <text x='190.96' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='177.31px' lengthAdjust='spacingAndGlyphs'>女子ゴルフ 米ツアー 岩井千怜が首位に2打差の9(継続中)</text>
 <text x='190.96' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='177.31px' lengthAdjust='spacingAndGlyphs'>高校野球 花巻東が3回戦進出 機動力を生かして7(継続中)</text>
 <text x='190.96' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='172.25px' lengthAdjust='spacingAndGlyphs'>レッドソックス 吉田正尚 2安打1打点 チームは(継続中)</text>
