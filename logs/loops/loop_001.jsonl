@@ -8,3 +8,6 @@
 {"v": "1.2", "ts": "2026-08-19T22:36:09+09:00", "project": "hodo-hangenki", "loop_id": "loop_001", "event": "test_run", "data": {"command": "harness/testrun.py (testthat::test_dir)", "passed": 22, "failed": 0, "errors": 0}}
 {"v": "1.2", "ts": "2026-08-19T22:36:28+09:00", "project": "hodo-hangenki", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-19T22:36:28+09:00", "project": "hodo-hangenki", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-19T22:36:59+09:00", "project": "hodo-hangenki", "loop_id": "loop_001", "event": "commit", "data": {"sha": "d1d414f36246294398efb4ff7df41ca22daa7f32", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-19T22:36:59+09:00", "project": "hodo-hangenki", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-19T22:36:59+09:00", "project": "hodo-hangenki", "loop_id": "loop_001", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "NHK RSS 8 フィードを pin し収集系を実装。初回スナップショット 443 行・台帳整合 green・22 テスト green"}}
