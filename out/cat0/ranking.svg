@@ -29,56 +29,92 @@
 <rect x='0.00' y='0.00' width='468.00' height='576.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTg1LjA1fDQ2Mi41MnwzOC45OXw1NDQuNTA='>
-    <rect x='185.05' y='38.99' width='277.47' height='505.51' />
+  <clipPath id='cpMTkzLjk0fDQ2Mi41MnwzOC4zNnwyODAuNjc='>
+    <rect x='193.94' y='38.36' width='268.58' height='242.31' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTg1LjA1fDQ2Mi41MnwzOC45OXw1NDQuNTA=)'>
-<polyline points='185.05,502.38 462.52,502.38 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='185.05,432.17 462.52,432.17 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='185.05,361.96 462.52,361.96 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='185.05,291.75 462.52,291.75 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='185.05,221.54 462.52,221.54 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='185.05,151.33 462.52,151.33 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='185.05,81.12 462.52,81.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='185.05,544.50 185.05,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='254.42,544.50 254.42,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='323.79,544.50 323.79,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='393.15,544.50 393.15,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='462.52,544.50 462.52,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='323.79' y='56.55' width='0.00' height='49.15' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='323.79' y='126.76' width='0.00' height='49.15' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='323.79' y='196.97' width='0.00' height='49.15' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='323.79' y='267.18' width='0.00' height='49.15' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='323.79' y='337.38' width='0.00' height='49.15' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='323.79' y='407.59' width='0.00' height='49.15' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='323.79' y='477.80' width='0.00' height='49.15' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<g clip-path='url(#cpMTkzLjk0fDQ2Mi41MnwzOC4zNnwyODAuNjc=)'>
+<polyline points='193.94,264.87 462.52,264.87 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,238.53 462.52,238.53 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,212.19 462.52,212.19 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,185.85 462.52,185.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,159.52 462.52,159.52 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,133.18 462.52,133.18 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,106.84 462.52,106.84 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,80.50 462.52,80.50 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,54.16 462.52,54.16 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='206.15,280.67 206.15,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='267.19,280.67 267.19,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='328.23,280.67 328.23,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='389.27,280.67 389.27,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='450.31,280.67 450.31,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='206.15' y='44.94' width='244.16' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='71.28' width='244.16' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='97.62' width='32.55' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='123.96' width='32.55' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='150.30' width='32.55' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='176.64' width='32.55' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='202.97' width='32.55' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='229.31' width='0.00' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='255.65' width='0.00' height='18.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
 <defs>
-  <clipPath id='cpMTg1LjA1fDQ2Mi41MnwyMi4wOHwzOC45OQ=='>
-    <rect x='185.05' y='22.08' width='277.47' height='16.92' />
+  <clipPath id='cpMTkzLjk0fDQ2Mi41MnwzMDIuODB8NTQ1LjEy'>
+    <rect x='193.94' y='302.80' width='268.58' height='242.31' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTg1LjA1fDQ2Mi41MnwyMi4wOHwzOC45OQ==)'>
-<text x='323.79' y='33.68' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Arial";' textLength='46.69px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
+<g clip-path='url(#cpMTkzLjk0fDQ2Mi41MnwzMDIuODB8NTQ1LjEy)'>
+<polyline points='193.94,479.03 462.52,479.03 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='193.94,368.89 462.52,368.89 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='206.15,545.12 206.15,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='267.19,545.12 267.19,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='328.23,545.12 328.23,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='389.27,545.12 389.27,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='450.31,545.12 450.31,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='206.15' y='330.34' width='244.16' height='77.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='206.15' y='440.48' width='244.16' height='77.10' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
-<text x='185.05' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.92px' lengthAdjust='spacingAndGlyphs'>-0.050</text>
-<text x='254.42' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.92px' lengthAdjust='spacingAndGlyphs'>-0.025</text>
-<text x='323.79' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.000</text>
-<text x='393.15' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.025</text>
-<text x='462.52' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.050</text>
-<text x='180.12' y='504.88' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='172.25px' lengthAdjust='spacingAndGlyphs'>防衛省 令和9年度予算案 過去最大 約9兆円要求(継続中)</text>
-<text x='180.12' y='434.67' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='152.00px' lengthAdjust='spacingAndGlyphs'>59歳 カズ 三浦知良 サッカー天皇杯で2得点 (継続中)</text>
-<text x='180.12' y='364.46' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='171.48px' lengthAdjust='spacingAndGlyphs'>トランプ大統領 米朝首脳会談模索の見方 その思惑(継続中)</text>
-<text x='180.12' y='294.25' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='169.05px' lengthAdjust='spacingAndGlyphs'>高市首相 トルコ大統領と電話会談 ホルムズ海峡の(継続中)</text>
-<text x='180.12' y='224.04' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='174.64px' lengthAdjust='spacingAndGlyphs'>天皇ご一家 千葉豪雨の被災者に 側近通じお見舞い(継続中)</text>
-<text x='180.12' y='153.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='172.23px' lengthAdjust='spacingAndGlyphs'>台風18号発生 非常に強い勢力に発達見込み 影響(継続中)</text>
-<text x='180.12' y='83.62' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='153.94px' lengthAdjust='spacingAndGlyphs'>車水没 ドラレコに記録 「このまま行けると思った(継続中)</text>
-<text x='323.79' y='568.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
-<text x='185.05' y='14.08' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='139.06px' lengthAdjust='spacingAndGlyphs'>主要 — 滞在時間ランキング</text>
+</g>
+<defs>
+  <clipPath id='cpMTkzLjk0fDQ2Mi41MnwyODYuMTV8MzAyLjgw'>
+    <rect x='193.94' y='286.15' width='268.58' height='16.65' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTkzLjk0fDQ2Mi41MnwyODYuMTV8MzAyLjgw)'>
+<text x='328.23' y='297.50' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>すぐ消えた 10</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTkzLjk0fDQ2Mi41MnwyMS43MXwzOC4zNg=='>
+    <rect x='193.94' y='21.71' width='268.58' height='16.65' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTkzLjk0fDQ2Mi41MnwyMS43MXwzOC4zNg==)'>
+<text x='328.23' y='33.06' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
+<text x='206.15' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.00</text>
+<text x='267.19' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.25</text>
+<text x='328.23' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.50</text>
+<text x='389.27' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.75</text>
+<text x='450.31' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>1.00</text>
+<text x='189.01' y='267.28' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='182.38px' lengthAdjust='spacingAndGlyphs'>「OTC類似薬」追加負担めぐり 患者など団体が会(継続中)</text>
+<text x='189.01' y='240.94' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='172.27px' lengthAdjust='spacingAndGlyphs'>個人情報保護委 KDDIに行政指導 メールアドレ(継続中)</text>
+<text x='189.01' y='214.60' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='172.25px' lengthAdjust='spacingAndGlyphs'>防衛省 令和9年度予算案 過去最大 約9兆円要求(継続中)</text>
+<text x='189.01' y='188.26' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='164.08px' lengthAdjust='spacingAndGlyphs'>59歳 カズ 三浦知良 サッカー天皇杯で2得点 (継続中)</text>
+<text x='189.01' y='161.92' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>トランプ大統領 米朝首脳会談模索の見方 その思惑(継続中)</text>
+<text x='189.01' y='135.59' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='177.31px' lengthAdjust='spacingAndGlyphs'>台風18号発生 非常に強い勢力に発達見込み 影響(継続中)</text>
+<text x='189.01' y='109.25' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>車水没 ドラレコに記録 「このまま行けると思った(継続中)</text>
+<text x='189.01' y='82.91' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>高市首相 トルコ大統領と電話会談 ホルムズ海峡の</text>
+<text x='189.01' y='56.57' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>天皇ご一家 千葉豪雨の被災者に 側近通じお見舞い</text>
+<text x='189.01' y='481.44' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='163.70px' lengthAdjust='spacingAndGlyphs'>高市首相 トルコ大統領と電話会談 ホルムズ海峡の.1</text>
+<text x='189.01' y='371.30' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='163.70px' lengthAdjust='spacingAndGlyphs'>天皇ご一家 千葉豪雨の被災者に 側近通じお見舞い.1</text>
+<text x='328.23' y='568.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
+<text x='193.94' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='150.66px' lengthAdjust='spacingAndGlyphs'>主要 — 滞在時間ランキング</text>
 </g>
 </g>
 </svg>

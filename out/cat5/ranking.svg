@@ -29,65 +29,61 @@
 <rect x='0.00' y='0.00' width='468.00' height='576.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTg4LjEzfDQ2Mi41MnwzOC45OXw1NDQuNTA='>
-    <rect x='188.13' y='38.99' width='274.39' height='505.51' />
+  <clipPath id='cpMTk5LjAwfDQ2Mi41MnwzOC4zNnw1NDUuMTI='>
+    <rect x='199.00' y='38.36' width='263.52' height='506.76' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTg4LjEzfDQ2Mi41MnwzOC45OXw1NDQuNTA=)'>
-<polyline points='188.13,514.77 462.52,514.77 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,465.21 462.52,465.21 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,415.65 462.52,415.65 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,366.09 462.52,366.09 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,316.53 462.52,316.53 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,266.97 462.52,266.97 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,217.41 462.52,217.41 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,167.85 462.52,167.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,118.29 462.52,118.29 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,68.73 462.52,68.73 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='188.13,544.50 188.13,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='256.73,544.50 256.73,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='325.33,544.50 325.33,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='393.92,544.50 393.92,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='462.52,544.50 462.52,38.99 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='325.33' y='51.38' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='100.94' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='150.50' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='200.06' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='249.62' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='299.18' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='348.74' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='398.30' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='447.86' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='325.33' y='497.42' width='0.00' height='34.69' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<g clip-path='url(#cpMTk5LjAwfDQ2Mi41MnwzOC4zNnw1NDUuMTI=)'>
+<polyline points='199.00,515.31 462.52,515.31 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,465.62 462.52,465.62 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,415.94 462.52,415.94 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,366.26 462.52,366.26 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,316.58 462.52,316.58 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,266.90 462.52,266.90 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,217.21 462.52,217.21 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,167.53 462.52,167.53 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,117.85 462.52,117.85 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='199.00,68.17 462.52,68.17 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='210.98,545.12 210.98,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='300.82,545.12 300.82,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='390.65,545.12 390.65,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='210.98' y='50.78' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='100.46' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='150.14' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='199.83' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='249.51' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='299.19' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='348.87' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='398.55' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='448.24' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='497.92' width='239.56' height='34.78' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
 <defs>
-  <clipPath id='cpMTg4LjEzfDQ2Mi41MnwyMi4wOHwzOC45OQ=='>
-    <rect x='188.13' y='22.08' width='274.39' height='16.92' />
+  <clipPath id='cpMTk5LjAwfDQ2Mi41MnwyMS43MXwzOC4zNg=='>
+    <rect x='199.00' y='21.71' width='263.52' height='16.65' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTg4LjEzfDQ2Mi41MnwyMi4wOHwzOC45OQ==)'>
-<text x='325.33' y='33.68' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Arial";' textLength='46.69px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
+<g clip-path='url(#cpMTk5LjAwfDQ2Mi41MnwyMS43MXwzOC4zNg==)'>
+<text x='330.76' y='33.06' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
-<text x='188.13' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.92px' lengthAdjust='spacingAndGlyphs'>-0.050</text>
-<text x='256.73' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='24.92px' lengthAdjust='spacingAndGlyphs'>-0.025</text>
-<text x='325.33' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.000</text>
-<text x='393.92' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.025</text>
-<text x='462.52' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='22.00px' lengthAdjust='spacingAndGlyphs'>0.050</text>
-<text x='183.20' y='517.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='161.73px' lengthAdjust='spacingAndGlyphs'>米トランプ政権 一部のドローン関連部品に100％(継続中)</text>
-<text x='183.20' y='467.71' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='162.83px' lengthAdjust='spacingAndGlyphs'>株価 一時1200円以上値上がり 4営業日連続で(継続中)</text>
-<text x='183.20' y='418.15' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='165.42px' lengthAdjust='spacingAndGlyphs'>太平洋クロマグロ漁獲枠 18日に関係国・地域と再(継続中)</text>
-<text x='183.20' y='368.59' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='162.25px' lengthAdjust='spacingAndGlyphs'>【千葉 大雨】ライフライン・店舗休業など生活情報(継続中)</text>
-<text x='183.20' y='319.03' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='160.00px' lengthAdjust='spacingAndGlyphs'>S＆P500 株価指数が最高値 FRB利上げ観測(継続中)</text>
-<text x='183.20' y='269.47' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='137.03px' lengthAdjust='spacingAndGlyphs'>円相場 小幅な値動き 1ドル＝159円台(継続中)</text>
-<text x='183.20' y='219.91' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='170.86px' lengthAdjust='spacingAndGlyphs'>東京ガスの子会社 顧客情報約2万件が入ったパソコ(継続中)</text>
-<text x='183.20' y='170.35' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='161.19px' lengthAdjust='spacingAndGlyphs'>株価 値上がり 半導体銘柄中心に買い トピックス(継続中)</text>
-<text x='183.20' y='120.79' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='141.45px' lengthAdjust='spacingAndGlyphs'>7月企業物価 7.2％上昇　高い水準続く(継続中)</text>
-<text x='183.20' y='71.23' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Arial";' textLength='177.72px' lengthAdjust='spacingAndGlyphs'>「植物工場」研究拠点開設相次ぐ 最先端技術で食料(継続中)</text>
-<text x='325.33' y='568.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
-<text x='188.13' y='14.08' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='139.06px' lengthAdjust='spacingAndGlyphs'>経済 — 滞在時間ランキング</text>
+<text x='210.98' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.00</text>
+<text x='300.82' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.05</text>
+<text x='390.65' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.10</text>
+<text x='194.07' y='517.71' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='179.27px' lengthAdjust='spacingAndGlyphs'>米トランプ政権 一部のドローン関連部品に100％(継続中)</text>
+<text x='194.07' y='468.03' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='167.98px' lengthAdjust='spacingAndGlyphs'>株価 一時1200円以上値上がり 4営業日連続で(継続中)</text>
+<text x='194.07' y='418.35' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='182.38px' lengthAdjust='spacingAndGlyphs'>太平洋クロマグロ漁獲枠 18日に関係国・地域と再(継続中)</text>
+<text x='194.07' y='368.67' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>【千葉 大雨】ライフライン・店舗休業など生活情報(継続中)</text>
+<text x='194.07' y='318.99' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.56px' lengthAdjust='spacingAndGlyphs'>S＆P500 株価指数が最高値 FRB利上げ観測(継続中)</text>
+<text x='194.07' y='269.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='143.09px' lengthAdjust='spacingAndGlyphs'>円相場 小幅な値動き 1ドル＝159円台(継続中)</text>
+<text x='194.07' y='219.62' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='185.48px' lengthAdjust='spacingAndGlyphs'>東京ガスの子会社 顧客情報約2万件が入ったパソコ(継続中)</text>
+<text x='194.07' y='169.94' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='178.47px' lengthAdjust='spacingAndGlyphs'>株価 値上がり 半導体銘柄中心に買い トピックス(継続中)</text>
+<text x='194.07' y='120.26' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.20px' lengthAdjust='spacingAndGlyphs'>7月企業物価 7.2％上昇　高い水準続く(継続中)</text>
+<text x='194.07' y='70.58' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>「植物工場」研究拠点開設相次ぐ 最先端技術で食料(継続中)</text>
+<text x='330.76' y='568.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
+<text x='199.00' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='150.66px' lengthAdjust='spacingAndGlyphs'>経済 — 滞在時間ランキング</text>
 </g>
 </g>
 </svg>
