@@ -45,20 +45,19 @@
 <polyline points='195.90,76.37 462.52,76.37 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='195.90,52.61 462.52,52.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='208.01,280.67 208.01,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='267.04,280.67 267.04,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='326.06,280.67 326.06,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='385.08,280.67 385.08,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='444.11,280.67 444.11,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='273.04,280.67 273.04,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='338.06,280.67 338.06,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='403.08,280.67 403.08,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <rect x='208.01' y='44.30' width='242.39' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='68.05' width='219.96' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='91.81' width='155.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='115.57' width='155.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='139.32' width='155.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='163.08' width='152.28' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='186.84' width='152.28' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='210.59' width='130.24' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='234.35' width='116.08' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='258.10' width='116.08' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='68.05' width='223.60' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='91.81' width='142.69' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='115.57' width='142.69' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='139.32' width='142.69' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='163.08' width='139.80' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='186.84' width='139.80' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='210.59' width='126.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='234.35' width='126.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='258.10' width='119.57' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
@@ -79,20 +78,19 @@
 <polyline points='195.90,340.81 462.52,340.81 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='195.90,317.06 462.52,317.06 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='208.01,545.12 208.01,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='267.04,545.12 267.04,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='326.06,545.12 326.06,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='385.08,545.12 385.08,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='444.11,545.12 444.11,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='208.01' y='308.74' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='332.50' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='356.25' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='380.01' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='403.77' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='427.52' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='451.28' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='475.04' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='498.79' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='208.01' y='522.55' width='23.61' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<polyline points='273.04,545.12 273.04,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='338.06,545.12 338.06,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='403.08,545.12 403.08,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='208.01' y='308.74' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='332.50' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='356.25' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='380.01' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='403.77' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='427.52' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='451.28' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='475.04' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='498.79' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='208.01' y='522.55' width='21.67' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
@@ -115,21 +113,20 @@
 <text x='329.21' y='33.06' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
-<text x='208.01' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>0.0</text>
-<text x='267.04' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>2.5</text>
-<text x='326.06' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>5.0</text>
-<text x='385.08' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='12.22px' lengthAdjust='spacingAndGlyphs'>7.5</text>
-<text x='444.11' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>10.0</text>
-<text x='190.96' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='185.48px' lengthAdjust='spacingAndGlyphs'>栃木 東武日光線の駅で特急と接触の作業員4人死亡(継続中)</text>
-<text x='190.96' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='180.42px' lengthAdjust='spacingAndGlyphs'>千葉豪雨から1週間 ボランティア本格化 園児受け(継続中)</text>
-<text x='190.96' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='149.70px' lengthAdjust='spacingAndGlyphs'>高校野球 智弁和歌山 5年ぶり決勝へ 横浜に逆転</text>
+<text x='208.01' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='273.04' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>3</text>
+<text x='338.06' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>6</text>
+<text x='403.08' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>9</text>
+<text x='190.96' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='149.70px' lengthAdjust='spacingAndGlyphs'>高校野球 智弁和歌山 5年ぶり決勝へ 横浜に逆転</text>
+<text x='190.96' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='185.48px' lengthAdjust='spacingAndGlyphs'>栃木 東武日光線の駅で作業員4人が特急と接触し死(継続中)</text>
+<text x='190.96' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='180.42px' lengthAdjust='spacingAndGlyphs'>千葉豪雨から1週間 ボランティア本格化 園児受け(継続中)</text>
 <text x='190.96' y='197.56' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='156.72px' lengthAdjust='spacingAndGlyphs'>「OTC類似薬」追加負担めぐり 患者など団体が会</text>
 <text x='190.96' y='173.80' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.61px' lengthAdjust='spacingAndGlyphs'>個人情報保護委 KDDIに行政指導 メールアドレ</text>
 <text x='190.96' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.59px' lengthAdjust='spacingAndGlyphs'>防衛省 令和9年度予算案 過去最大 約9兆円要求</text>
 <text x='190.96' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='138.42px' lengthAdjust='spacingAndGlyphs'>59歳 カズ 三浦知良 サッカー天皇杯で2得点 </text>
 <text x='190.96' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>車水没 ドラレコに記録 「このまま行けると思った</text>
-<text x='190.96' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>岩手で猛烈な雨か 危険警報の発表も 土砂災害など(継続中)</text>
-<text x='190.96' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>熊本地震 被災地は午前中から猛烈な暑さ 熱中症対(継続中)</text>
+<text x='190.96' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>岩手で猛烈な雨か 危険警報の発表も 土砂災害など</text>
+<text x='190.96' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>熊本地震 あすも被災地は猛烈な暑さに 午後は局地(継続中)</text>
 <text x='190.96' y='533.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='154.77px' lengthAdjust='spacingAndGlyphs'>台湾の防衛費予算案 初の1兆台湾元超に 自衛力強</text>
 <text x='190.96' y='509.51' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>首都高 中央環状線内回りで車両火災 広い範囲で通</text>
 <text x='190.96' y='485.76' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='122.88px' lengthAdjust='spacingAndGlyphs'>株価 値上がり アメリカの株価上昇受け</text>
