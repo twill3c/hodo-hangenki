@@ -45,8 +45,8 @@
 <polyline points='199.00,76.37 462.52,76.37 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='199.00,52.61 462.52,52.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='210.98,280.67 210.98,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='304.93,280.67 304.93,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='398.87,280.67 398.87,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='301.27,280.67 301.27,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='391.56,280.67 391.56,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <rect x='210.98' y='44.30' width='239.56' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='210.98' y='68.05' width='239.56' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='210.98' y='91.81' width='239.56' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
@@ -77,18 +77,18 @@
 <polyline points='199.00,340.81 462.52,340.81 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='199.00,317.06 462.52,317.06 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='210.98,545.12 210.98,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='304.93,545.12 304.93,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='398.87,545.12 398.87,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='210.98' y='308.74' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='332.50' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='356.25' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='380.01' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='403.77' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='427.52' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='451.28' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='475.04' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='498.79' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='210.98' y='522.55' width='10.65' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<polyline points='301.27,545.12 301.27,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='391.56,545.12 391.56,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='210.98' y='308.74' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='332.50' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='356.25' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='380.01' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='403.77' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='427.52' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='451.28' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='475.04' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='498.79' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.98' y='522.55' width='10.23' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
@@ -112,18 +112,18 @@
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 <text x='210.98' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='304.93' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>10</text>
-<text x='398.87' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>20</text>
-<text x='194.07' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='173.42px' lengthAdjust='spacingAndGlyphs'>熊本 阿蘇山 噴火警戒レベルを「3」に引き上げ(継続中)</text>
-<text x='194.07' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>車で移動中に浸水被害 専門家「毎年起きる身近な危(継続中)</text>
-<text x='194.07' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>秋田県オンライン記者説明会で不適切対応 職員を停(継続中)</text>
-<text x='194.07' y='197.56' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='180.42px' lengthAdjust='spacingAndGlyphs'>熊本地震 子ども心をどうケアする? 【専門家Ｑ＆(継続中)</text>
-<text x='194.07' y='173.80' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='185.48px' lengthAdjust='spacingAndGlyphs'>【大雨】冠水した車から2人を引き出した男性 緊迫(継続中)</text>
-<text x='194.07' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='175.36px' lengthAdjust='spacingAndGlyphs'>知床 羅臼岳 ヒグマに襲われ男性死亡から1年 父(継続中)</text>
-<text x='194.07' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='175.36px' lengthAdjust='spacingAndGlyphs'>熊本地震 宇城と氷川町 学童保育の約6割 再開の(継続中)</text>
-<text x='194.07' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='137.30px' lengthAdjust='spacingAndGlyphs'>【動画】Pickup NEWS（8月14日）(継続中)</text>
-<text x='194.07' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>東京地検 新検事正に松下裕子氏が就任「役割を全う(継続中)</text>
-<text x='194.07' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='177.31px' lengthAdjust='spacingAndGlyphs'>台風17号 南鳥島近海を北東へ進む 今後の情報に(継続中)</text>
+<text x='301.27' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='391.56' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='194.07' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='180.42px' lengthAdjust='spacingAndGlyphs'>高校野球 「2部制」期間 熱中症疑いの選手はのべ(継続中)</text>
+<text x='194.07' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>終戦の日 さまざまな立場の人たちが戦争の犠牲者を(継続中)</text>
+<text x='194.07' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='177.31px' lengthAdjust='spacingAndGlyphs'>終戦81年 太平洋戦争の激戦地 フィリピンで戦没(継続中)</text>
+<text x='194.07' y='197.56' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='137.30px' lengthAdjust='spacingAndGlyphs'>【動画】Pickup NEWS（8月16日）(継続中)</text>
+<text x='194.07' y='173.80' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='177.31px' lengthAdjust='spacingAndGlyphs'>熊本地震 災害関連死の疑い含め39人死亡 避難所(継続中)</text>
+<text x='194.07' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>高市首相 千鳥ヶ淵戦没者墓苑で献花 「全国戦没者(継続中)</text>
+<text x='194.07' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.59px' lengthAdjust='spacingAndGlyphs'>絶滅危惧種のキタサンショウウオ 生息地等保護区指(継続中)</text>
+<text x='194.07' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='137.30px' lengthAdjust='spacingAndGlyphs'>【動画】Pickup NEWS（8月15日）(継続中)</text>
+<text x='194.07' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='183.53px' lengthAdjust='spacingAndGlyphs'>熊本地震 被災の福祉施設へ介護職員派遣 人件費は(継続中)</text>
+<text x='194.07' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='182.38px' lengthAdjust='spacingAndGlyphs'>戦後81年の終戦の日 政府主催の全国戦没者追悼式(継続中)</text>
 <text x='194.07' y='533.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='153.98px' lengthAdjust='spacingAndGlyphs'>熊本地震 どうする？災害廃棄物 【専門家Q＆A】</text>
 <text x='194.07' y='509.51' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>千葉 九十九里町の海水浴場 遊泳中の男性流され死</text>
 <text x='194.07' y='485.76' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>半蔵門線ホームでアスベスト 国交省が全国鉄道会社</text>
