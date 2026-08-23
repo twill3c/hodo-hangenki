@@ -39,15 +39,15 @@
 <polyline points='40.11,175.41 534.52,175.41 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='40.11,105.55 534.52,105.55 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <polyline points='40.11,35.68 534.52,35.68 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='57.46,329.12 57.46,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='170.56,329.12 170.56,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='283.66,329.12 283.66,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='396.76,329.12 396.76,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='509.86,329.12 509.86,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polygon points='62.58,35.68 90.18,35.68 98.70,35.68 144.47,35.68 177.34,36.44 192.27,36.44 292.40,36.44 306.88,36.44 393.44,45.81 404.83,45.81 432.42,45.81 474.35,45.81 512.05,45.81 512.05,192.89 474.35,192.89 432.42,192.89 404.83,192.89 393.44,192.89 306.88,160.84 292.40,160.84 192.27,160.84 177.34,160.84 144.47,79.18 98.70,79.18 90.18,79.18 62.58,79.18 ' style='stroke-width: 0.00; stroke: none; stroke-linecap: butt; fill: #2563EB; fill-opacity: 0.15;' />
-<polyline points='62.58,35.68 90.18,35.68 98.70,35.68 144.47,35.68 177.34,36.44 192.27,36.44 292.40,36.44 306.88,36.44 393.44,45.81 404.83,45.81 432.42,45.81 474.35,45.81 512.05,45.81 ' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt;' />
-<polyline points='512.05,192.89 474.35,192.89 432.42,192.89 404.83,192.89 393.44,192.89 306.88,160.84 292.40,160.84 192.27,160.84 177.34,160.84 144.47,79.18 98.70,79.18 90.18,79.18 62.58,79.18 ' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt;' />
-<polyline points='62.58,51.21 90.18,51.21 90.18,51.21 98.70,51.21 98.70,51.21 144.47,51.21 144.47,51.21 177.34,51.21 177.34,107.76 192.27,107.76 192.27,107.76 292.40,107.76 292.40,107.76 306.88,107.76 306.88,107.76 393.44,107.76 393.44,133.69 404.83,133.69 404.83,133.69 432.42,133.69 432.42,133.69 474.35,133.69 474.35,133.69 512.05,133.69 512.05,133.69 ' style='stroke-width: 1.71; stroke: #2563EB; stroke-linecap: butt;' />
+<polyline points='57.49,329.12 57.49,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='169.73,329.12 169.73,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='281.97,329.12 281.97,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='394.20,329.12 394.20,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='506.44,329.12 506.44,21.71 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polygon points='62.58,35.68 93.41,35.68 101.87,35.68 147.28,35.68 176.46,36.44 194.72,36.44 294.09,36.44 308.45,36.44 390.91,45.81 405.65,45.81 433.03,45.81 474.64,45.81 512.05,45.81 512.05,192.89 474.64,192.89 433.03,192.89 405.65,192.89 390.91,192.89 308.45,160.84 294.09,160.84 194.72,160.84 176.46,160.84 147.28,79.18 101.87,79.18 93.41,79.18 62.58,79.18 ' style='stroke-width: 0.00; stroke: none; stroke-linecap: butt; fill: #2563EB; fill-opacity: 0.15;' />
+<polyline points='62.58,35.68 93.41,35.68 101.87,35.68 147.28,35.68 176.46,36.44 194.72,36.44 294.09,36.44 308.45,36.44 390.91,45.81 405.65,45.81 433.03,45.81 474.64,45.81 512.05,45.81 ' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt;' />
+<polyline points='512.05,192.89 474.64,192.89 433.03,192.89 405.65,192.89 390.91,192.89 308.45,160.84 294.09,160.84 194.72,160.84 176.46,160.84 147.28,79.18 101.87,79.18 93.41,79.18 62.58,79.18 ' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt;' />
+<polyline points='62.58,51.21 93.41,51.21 93.41,51.21 101.87,51.21 101.87,51.21 147.28,51.21 147.28,51.21 176.46,51.21 176.46,107.76 194.72,107.76 194.72,107.76 294.09,107.76 294.09,107.76 308.45,107.76 308.45,107.76 390.91,107.76 390.91,133.69 405.65,133.69 405.65,133.69 433.03,133.69 433.03,133.69 474.64,133.69 474.64,133.69 512.05,133.69 512.05,133.69 ' style='stroke-width: 1.71; stroke: #2563EB; stroke-linecap: butt;' />
 <line x1='40.11' y1='175.41' x2='534.52' y2='175.41' style='stroke-width: 0.64; stroke: #888888; stroke-dasharray: 4.00,4.00; stroke-linecap: butt;' />
 </g>
 <g clip-path='url(#cpMC4wMHw1NDAuMDB8MC4wMHwzNjAuMDA=)'>
@@ -56,11 +56,11 @@
 <text x='35.18' y='178.44' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.50</text>
 <text x='35.18' y='108.57' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>0.75</text>
 <text x='35.18' y='38.71' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='17.11px' lengthAdjust='spacingAndGlyphs'>1.00</text>
-<text x='57.46' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='170.56' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='283.66' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='396.76' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='509.86' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='57.49' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='169.73' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='281.97' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='394.20' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='506.44' y='340.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>100</text>
 <text x='287.32' y='352.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>経過時間(時間)</text>
 <text transform='translate(13.05,175.41) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='53.78px' lengthAdjust='spacingAndGlyphs'>生存率 S(t)</text>
 <text x='40.11' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='215.33px' lengthAdjust='spacingAndGlyphs'>科学・文化 — KM 曲線と 95% 信頼区間</text>
