@@ -29,119 +29,119 @@
 <rect x='0.00' y='0.00' width='468.00' height='576.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMTczLjM1fDQ2Mi41MnwzOC4zNnwyODAuNjc='>
-    <rect x='173.35' y='38.36' width='289.17' height='242.31' />
+  <clipPath id='cpMTk4LjYxfDQ2Mi41MnwzOC4zNnwyODAuNjc='>
+    <rect x='198.61' y='38.36' width='263.91' height='242.31' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTczLjM1fDQ2Mi41MnwzOC4zNnwyODAuNjc=)'>
-<polyline points='173.35,266.42 462.52,266.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,242.66 462.52,242.66 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,218.91 462.52,218.91 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,195.15 462.52,195.15 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,171.39 462.52,171.39 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,147.64 462.52,147.64 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,123.88 462.52,123.88 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,100.13 462.52,100.13 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,76.37 462.52,76.37 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,52.61 462.52,52.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='186.49,280.67 186.49,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='249.67,280.67 249.67,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='312.84,280.67 312.84,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='376.01,280.67 376.01,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='439.18,280.67 439.18,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='186.49' y='44.30' width='262.88' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='68.05' width='223.27' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='91.81' width='211.21' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='115.57' width='203.86' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='139.32' width='203.69' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='163.08' width='198.15' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='186.84' width='198.15' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='210.59' width='196.03' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='234.35' width='194.91' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='258.10' width='191.69' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<g clip-path='url(#cpMTk4LjYxfDQ2Mi41MnwzOC4zNnwyODAuNjc=)'>
+<polyline points='198.61,266.42 462.52,266.42 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,242.66 462.52,242.66 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,218.91 462.52,218.91 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,195.15 462.52,195.15 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,171.39 462.52,171.39 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,147.64 462.52,147.64 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,123.88 462.52,123.88 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,100.13 462.52,100.13 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,76.37 462.52,76.37 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,52.61 462.52,52.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='210.61,280.67 210.61,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='268.26,280.67 268.26,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='325.92,280.67 325.92,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='383.57,280.67 383.57,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='441.22,280.67 441.22,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='210.61' y='44.30' width='239.91' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='68.05' width='203.77' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='91.81' width='192.75' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='115.57' width='186.05' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='139.32' width='185.89' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='163.08' width='180.84' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='186.84' width='180.84' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='210.59' width='179.26' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='234.35' width='178.90' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='258.10' width='177.88' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
 <defs>
-  <clipPath id='cpMTczLjM1fDQ2Mi41MnwzMDIuODB8NTQ1LjEy'>
-    <rect x='173.35' y='302.80' width='289.17' height='242.31' />
+  <clipPath id='cpMTk4LjYxfDQ2Mi41MnwzMDIuODB8NTQ1LjEy'>
+    <rect x='198.61' y='302.80' width='263.91' height='242.31' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTczLjM1fDQ2Mi41MnwzMDIuODB8NTQ1LjEy)'>
-<polyline points='173.35,530.86 462.52,530.86 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,507.11 462.52,507.11 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,483.35 462.52,483.35 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,459.59 462.52,459.59 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,435.84 462.52,435.84 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,412.08 462.52,412.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,388.33 462.52,388.33 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,364.57 462.52,364.57 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,340.81 462.52,340.81 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='173.35,317.06 462.52,317.06 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='186.49,545.12 186.49,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='249.67,545.12 249.67,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='312.84,545.12 312.84,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='376.01,545.12 376.01,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='439.18,545.12 439.18,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='186.49' y='308.74' width='32.30' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='332.50' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='356.25' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='380.01' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='403.77' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='427.52' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='451.28' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='475.04' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='498.79' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='186.49' y='522.55' width='1.43' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<g clip-path='url(#cpMTk4LjYxfDQ2Mi41MnwzMDIuODB8NTQ1LjEy)'>
+<polyline points='198.61,530.86 462.52,530.86 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,507.11 462.52,507.11 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,483.35 462.52,483.35 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,459.59 462.52,459.59 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,435.84 462.52,435.84 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,412.08 462.52,412.08 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,388.33 462.52,388.33 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,364.57 462.52,364.57 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,340.81 462.52,340.81 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='198.61,317.06 462.52,317.06 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='210.61,545.12 210.61,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='268.26,545.12 268.26,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='325.92,545.12 325.92,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='383.57,545.12 383.57,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='441.22,545.12 441.22,302.80 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='210.61' y='308.74' width='29.48' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='332.50' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='356.25' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='380.01' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='403.77' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='427.52' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='451.28' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='475.04' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='498.79' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='210.61' y='522.55' width='1.31' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
 <defs>
-  <clipPath id='cpMTczLjM1fDQ2Mi41MnwyODYuMTV8MzAyLjgw'>
-    <rect x='173.35' y='286.15' width='289.17' height='16.65' />
+  <clipPath id='cpMTk4LjYxfDQ2Mi41MnwyODYuMTV8MzAyLjgw'>
+    <rect x='198.61' y='286.15' width='263.91' height='16.65' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTczLjM1fDQ2Mi41MnwyODYuMTV8MzAyLjgw)'>
-<text x='317.93' y='297.50' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>すぐ消えた 10</text>
+<g clip-path='url(#cpMTk4LjYxfDQ2Mi41MnwyODYuMTV8MzAyLjgw)'>
+<text x='330.57' y='297.50' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>すぐ消えた 10</text>
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
 </g>
 <defs>
-  <clipPath id='cpMTczLjM1fDQ2Mi41MnwyMS43MXwzOC4zNg=='>
-    <rect x='173.35' y='21.71' width='289.17' height='16.65' />
+  <clipPath id='cpMTk4LjYxfDQ2Mi41MnwyMS43MXwzOC4zNg=='>
+    <rect x='198.61' y='21.71' width='263.91' height='16.65' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMTczLjM1fDQ2Mi41MnwyMS43MXwzOC4zNg==)'>
-<text x='317.93' y='33.06' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
+<g clip-path='url(#cpMTk4LjYxfDQ2Mi41MnwyMS43MXwzOC4zNg==)'>
+<text x='330.57' y='33.06' text-anchor='middle' style='font-size: 8.80px;fill: #1A1A1A; font-family: "Liberation Sans";' textLength='56.20px' lengthAdjust='spacingAndGlyphs'>長く残った 10</text>
 </g>
 <g clip-path='url(#cpMC4wMHw0NjguMDB8MC4wMHw1NzYuMDA=)'>
-<text x='186.49' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='249.67' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='312.84' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='376.01' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>150</text>
-<text x='439.18' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>200</text>
-<text x='168.42' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.59px' lengthAdjust='spacingAndGlyphs'>高校野球 智弁和歌山が優勝 5年ぶり4回目 健大</text>
-<text x='168.42' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.59px' lengthAdjust='spacingAndGlyphs'>ドジャース 佐々木 5回2失点で勝ち負けつかず </text>
-<text x='168.42' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>ブルージェイズ 岡本和真 タイムリーヒットもチー</text>
-<text x='168.42' y='197.56' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>ホワイトソックス村上とカブス鈴木 ともに先発出場</text>
-<text x='168.42' y='173.80' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='130.66px' lengthAdjust='spacingAndGlyphs'>メッツ 千賀滉大 1失点も4試合連続セーブ</text>
-<text x='168.42' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='158.69px' lengthAdjust='spacingAndGlyphs'>【プロ野球結果】セ・リーグ首位阪神がDeNAに勝</text>
-<text x='168.42' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='149.70px' lengthAdjust='spacingAndGlyphs'>高校野球 智弁和歌山 5年ぶり決勝へ 横浜に逆転</text>
-<text x='168.42' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='145.44px' lengthAdjust='spacingAndGlyphs'>サッカー天皇杯1回戦 24試合結果 カズが2得点</text>
-<text x='168.42' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>高校野球 健大高崎が初の決勝進出 天理に競り勝つ</text>
-<text x='168.42' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>夏の甲子園 全試合をハイライト動画で【準々決勝か</text>
-<text x='168.42' y='533.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>ホワイトソックス村上 連続試合安打ストップもチー</text>
-<text x='168.42' y='509.51' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='159.83px' lengthAdjust='spacingAndGlyphs'>高校野球 熊本の有明が長崎日大高に競り勝ち3回戦</text>
-<text x='168.42' y='485.76' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='149.70px' lengthAdjust='spacingAndGlyphs'>ブルージェイズ 岡本 3試合ぶり出場 勝ち越しタ</text>
-<text x='168.42' y='462.00' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='140.38px' lengthAdjust='spacingAndGlyphs'>カブス 鈴木誠也 2安打2打点2得点 チームは3</text>
-<text x='168.42' y='438.25' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='148.55px' lengthAdjust='spacingAndGlyphs'>ドジャース 大谷翔平 6試合ぶり27号逆転ツーラ</text>
-<text x='168.42' y='414.49' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='159.83px' lengthAdjust='spacingAndGlyphs'>高校野球 健大高崎が東海大甲府に勝って3回戦進出</text>
-<text x='168.42' y='390.73' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='120.94px' lengthAdjust='spacingAndGlyphs'>アストロズ今井 リリーフで３回無失点</text>
-<text x='168.42' y='366.98' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='145.83px' lengthAdjust='spacingAndGlyphs'>高校野球 夏の甲子園【大会9日目の見どころ】</text>
-<text x='168.42' y='343.22' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='152.47px' lengthAdjust='spacingAndGlyphs'>【プロ野球結果】セ・リーグ3位のDeNAが5本の</text>
-<text x='168.42' y='319.47' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>高校野球 東日大昌平 照沼投手の力投で青森山田に</text>
-<text x='317.93' y='568.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
-<text x='173.35' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='174.66px' lengthAdjust='spacingAndGlyphs'>スポーツ — 滞在時間ランキング</text>
+<text x='210.61' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='4.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='268.26' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='325.92' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='383.57' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>150</text>
+<text x='441.22' y='556.10' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>200</text>
+<text x='193.68' y='268.83' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='146.59px' lengthAdjust='spacingAndGlyphs'>ドジャース 佐々木 5回2失点で勝ち負けつかず </text>
+<text x='193.68' y='245.07' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>ブルージェイズ 岡本和真 タイムリーヒットもチー</text>
+<text x='193.68' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='188.20px' lengthAdjust='spacingAndGlyphs'>サッカーW杯で暴行 アルゼンチンの選手など出場停(継続中)</text>
+<text x='193.68' y='197.56' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>ホワイトソックス村上とカブス鈴木 ともに先発出場</text>
+<text x='193.68' y='173.80' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='130.66px' lengthAdjust='spacingAndGlyphs'>メッツ 千賀滉大 1失点も4試合連続セーブ</text>
+<text x='193.68' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='158.69px' lengthAdjust='spacingAndGlyphs'>【プロ野球結果】セ・リーグ首位阪神がDeNAに勝</text>
+<text x='193.68' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='149.70px' lengthAdjust='spacingAndGlyphs'>高校野球 智弁和歌山 5年ぶり決勝へ 横浜に逆転</text>
+<text x='193.68' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='145.44px' lengthAdjust='spacingAndGlyphs'>サッカー天皇杯1回戦 24試合結果 カズが2得点</text>
+<text x='193.68' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>高校野球 健大高崎が初の決勝進出 天理に競り勝つ</text>
+<text x='193.68' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>夏の甲子園 全試合をハイライト動画で【準々決勝か</text>
+<text x='193.68' y='533.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>ホワイトソックス村上 連続試合安打ストップもチー</text>
+<text x='193.68' y='509.51' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='159.83px' lengthAdjust='spacingAndGlyphs'>高校野球 熊本の有明が長崎日大高に競り勝ち3回戦</text>
+<text x='193.68' y='485.76' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='149.70px' lengthAdjust='spacingAndGlyphs'>ブルージェイズ 岡本 3試合ぶり出場 勝ち越しタ</text>
+<text x='193.68' y='462.00' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='140.38px' lengthAdjust='spacingAndGlyphs'>カブス 鈴木誠也 2安打2打点2得点 チームは3</text>
+<text x='193.68' y='438.25' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='148.55px' lengthAdjust='spacingAndGlyphs'>ドジャース 大谷翔平 6試合ぶり27号逆転ツーラ</text>
+<text x='193.68' y='414.49' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='159.83px' lengthAdjust='spacingAndGlyphs'>高校野球 健大高崎が東海大甲府に勝って3回戦進出</text>
+<text x='193.68' y='390.73' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='120.94px' lengthAdjust='spacingAndGlyphs'>アストロズ今井 リリーフで３回無失点</text>
+<text x='193.68' y='366.98' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='145.83px' lengthAdjust='spacingAndGlyphs'>高校野球 夏の甲子園【大会9日目の見どころ】</text>
+<text x='193.68' y='343.22' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='152.47px' lengthAdjust='spacingAndGlyphs'>【プロ野球結果】セ・リーグ3位のDeNAが5本の</text>
+<text x='193.68' y='319.47' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>高校野球 東日大昌平 照沼投手の力投で青森山田に</text>
+<text x='330.57' y='568.24' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='73.31px' lengthAdjust='spacingAndGlyphs'>滞在時間(時間)</text>
+<text x='198.61' y='13.74' style='font-size: 12.00px; font-weight: bold; font-family: "Liberation Sans";' textLength='174.66px' lengthAdjust='spacingAndGlyphs'>スポーツ — 滞在時間ランキング</text>
 </g>
 </g>
 </svg>
