@@ -50,9 +50,9 @@
 <polyline points='432.22,280.67 432.22,38.36 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
 <rect x='196.49' y='44.30' width='253.37' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='196.49' y='68.05' width='61.58' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.49' y='91.81' width='41.02' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.49' y='115.57' width='39.47' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
-<rect x='196.49' y='139.32' width='39.21' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='196.49' y='91.81' width='42.56' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='196.49' y='115.57' width='41.02' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
+<rect x='196.49' y='139.32' width='39.47' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='196.49' y='163.08' width='38.22' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='196.49' y='186.84' width='38.01' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
 <rect x='196.49' y='210.59' width='37.80' height='16.63' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2563EB;' />
@@ -122,9 +122,9 @@
 <text x='178.89' y='221.31' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='134.16px' lengthAdjust='spacingAndGlyphs'>台風20号 先島諸島で大雨 台風18号 25日か</text>
 <text x='178.89' y='197.56' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='150.50px' lengthAdjust='spacingAndGlyphs'>近畿で39度超 25日は熊本・大分など「酷暑日」</text>
 <text x='178.89' y='173.80' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>福井県で記録的な大雨 土砂災害に引き続き十分注意</text>
-<text x='178.89' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='173.41px' lengthAdjust='spacingAndGlyphs'>関東 東海 東北 線状降水帯発生の可能性 安全最(継続中)</text>
-<text x='178.89' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='145.44px' lengthAdjust='spacingAndGlyphs'>台風18号 25日以降沖縄・奄美に接近 猛烈な風</text>
-<text x='178.89' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>ネパール・中国の国境地帯で土石流 ネパール側の死</text>
+<text x='178.89' y='150.05' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='145.44px' lengthAdjust='spacingAndGlyphs'>台風18号 25日以降沖縄・奄美に接近 猛烈な風</text>
+<text x='178.89' y='126.29' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='162.94px' lengthAdjust='spacingAndGlyphs'>ネパール・中国の国境地帯で土石流 ネパール側の死</text>
+<text x='178.89' y='102.53' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='173.41px' lengthAdjust='spacingAndGlyphs'>関東 東海 東北 線状降水帯発生の可能性 安全最(継続中)</text>
 <text x='178.89' y='78.78' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='151.28px' lengthAdjust='spacingAndGlyphs'>JR首都圏在来線 6日夜から7日にかけて運休や遅</text>
 <text x='178.89' y='55.02' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='148.55px' lengthAdjust='spacingAndGlyphs'>ネパール土石流 633人が死亡 二次災害のリスク</text>
 <text x='178.89' y='533.27' text-anchor='end' style='font-size: 7.00px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='157.88px' lengthAdjust='spacingAndGlyphs'>日本製紙八代工場 地震で先端損傷の煙突 来月中旬</text>
